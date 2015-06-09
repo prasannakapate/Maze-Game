@@ -103,7 +103,7 @@ RobotMazeInterface.prototype.renderSpace = function (x,y) {
     southRobotStart: "fa fa-arrow-circle-down",
     westRobotStart: "fa fa-arrow-circle-left",
     robotEnd: "fa fa-check"
-  }  
+  }
   var $space = $('<i>');
 
   if (isRobot) {
